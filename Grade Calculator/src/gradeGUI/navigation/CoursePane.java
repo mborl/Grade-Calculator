@@ -1,5 +1,13 @@
 package gradeGUI.navigation;
 
-public class CoursePane {
+import javafx.scene.layout.Pane;
+
+public class CoursePane extends Pane {
+	
+	public CoursePane() {
+		
+		
+		
+	}
 
 }

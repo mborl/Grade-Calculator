@@ -1,5 +1,5 @@
 package gradeDataStructure;
 
-public class Semester {
+public class Semester extends Academic_Block {
 
 }

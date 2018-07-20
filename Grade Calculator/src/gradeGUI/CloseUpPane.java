@@ -1,5 +1,8 @@
 package gradeGUI;
 
-public class CloseUpPane {
+import javafx.scene.layout.Pane;
+
+public class CloseUpPane extends Pane {
+	
 
 }
